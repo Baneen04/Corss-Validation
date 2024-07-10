@@ -1,2 +1,2 @@
 # Corss-Validation
-In my project, I have implemented cross-validation to rigorously evaluate the model's performance and ensure its robustness. 
+In my project, I have implemented cross-validation to enhance the accuracy and reliability of the model's performance assessment. By applying techniques such as k-fold cross-validation, I divided the dataset into multiple subsets and evaluated the model across these folds to ensure that the performance metrics are robust and not biased by a single train-test split. This approach allowed me to systematically validate the model's effectiveness, optimize hyperparameters, and reduce the risk of overfitting, ultimately leading to a more reliable and generalizable model.
